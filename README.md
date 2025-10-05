@@ -12,7 +12,7 @@
 
 <!-- Profile Stats -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chamika987&label=Profile%20views&color=ff69b4&style=flat&cacheBust=1" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=CS333-R&label=Profile%20views&color=ff69b4&style=flat&cacheBust=1" alt="views" />
 </p>
 
 ---
@@ -47,18 +47,18 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chamika987&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cacheBust=1" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chamika987&theme=radical&cacheBust=1" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CS333-R&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cacheBust=1" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CS333-R&theme=radical&cacheBust=1" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chamika987&theme=radical&cacheBust=1" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CS333-R&theme=radical&cacheBust=1" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chamika987&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&cacheBust=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CS333-R&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&cacheBust=1" />
 </p>
 
 ---
@@ -79,7 +79,7 @@
 
 ## 🌍 Visitor Map
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=Chamika987&repo=Chamika987&countColor=%237B1FA2&cacheBust=1" />
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=CS333-R&repo=CS333-R&countColor=%237B1FA2&cacheBust=1" />
 </p>
 
 ---
